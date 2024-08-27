@@ -1,4 +1,4 @@
-# reasonGTMC
+# reasonGTMC - Murendeni Nethengwe
 Reason GTMC Technical Assessment 
 
 Running and Testing Instructions
